@@ -1,0 +1,30 @@
+body {
+    background-color: burlywood;
+}
+
+.heading {
+    text-align: center;
+}
+
+.about {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.Ingrediants {
+    background-color: rgb(98, 102, 106);
+    padding: 20px 30px 1px 10px;
+    margin: 10;
+    color: white;
+}
+
+.Steps { 
+     background-color: rgb(98, 102, 106);
+    padding: 20px 30px 1px 10px;
+    margin: 1;
+    color: white;
+}
+
+.link {
+    text-align: center;
+}
